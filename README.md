@@ -1,4 +1,3 @@
 # ferfer-fs-novice
-Archive created to learn something about git
 
-added a new branch, this is branch1
+now this is branch 2
